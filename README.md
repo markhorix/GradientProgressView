@@ -14,6 +14,11 @@
 - **Customizable Height**: Adjust the height of the progress view.
 - **Animation**: Animated transitions for progress changes.
 
+## Requirements
+
+- **iOS 14.0** or later
+- **macOS 10.15** or later
+
 ## Installation
 
 To include `GradientProgressView` in your SwiftUI project, add it as a Swift Package Manager (SPM) dependency. Follow these steps:
